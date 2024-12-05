@@ -10,6 +10,9 @@
 ## Introduction
 This is a real-time chat application built using JavaScript, Node.js, Express, and Socket.IO. It allows users to join a chat room, send messages, and see messages from other users in real-time.
 
+## Preview
+![Alt text for your image](Screenshot%202024-12-05%20141453.png)
+
 ## Features
 - Real-time messaging
 - User join and leave notifications
